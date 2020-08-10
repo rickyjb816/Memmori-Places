@@ -1,6 +1,6 @@
-# places
+# Memmori Places
 
-A new Flutter application.
+Flutter Version.
 
 ## Getting Started
 
